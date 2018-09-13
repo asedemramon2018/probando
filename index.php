@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	este es el index
+	Primera página
 </body>
 </html>
